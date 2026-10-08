@@ -1,0 +1,11 @@
+ID,StudentName,Department,Subject,Semester,AttendedClasses,TotalClasses,CurrentMarks,AdvisorName
+CS-2026-042,Aarav Patel,Computer Science,Data Structures & Algorithms,5,28,45,48,Dr. V. Raman
+ME-2026-118,Devika Nair,Mechanical Eng,Thermodynamics II,6,31,42,52,Dr. S. Kulkarni
+EE-2026-089,Rohan Deshmukh,Electronics Eng,Digital Signal Processing,5,35,44,58,Dr. M. Chawla
+DS-2026-201,Ananya Roy,Data Science,Machine Learning Fundamentals,4,33,40,54,Prof. A. Sengupta
+CE-2026-015,Vikram Singh,Civil Eng,Structural Analysis,6,30,45,44,Dr. P. Hegde
+CS-2026-099,Siddharth Iyer,Computer Science,Operating Systems,5,36,44,68,Dr. V. Raman
+EE-2026-150,Meera Menon,Electronics Eng,Microprocessors,5,40,44,88,Dr. M. Chawla
+DS-2026-112,Kabir Joshi,Data Science,Applied Statistics,4,37,42,59,Prof. A. Sengupta
+CS-2026-305,Pooja Sharma,Computer Science,Database Management Systems,5,25,45,46,Dr. V. Raman
+ME-2026-410,Karan Gupta,Mechanical Eng,Fluid Mechanics,6,32,45,61,Dr. S. Kulkarni
